@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<timetableProblem>
+	<courses>
+		<course grades="12" id="4oGd1MFuru" likelyIncl="Ef98FS" mutExcl="" name="bL3dePSswVaTMHjoztrwkKDACAgPtg" periods="1" priority="2" semesters="1"/>
+		<course grades="10" id="QeRzMg9BKT" likelyIncl="" mutExcl="" name="Pa4KxINuYwKwbPd4vtXIcjbFWKf6u4" periods="1" priority="3" semesters="2"/>
+		<course grades="9-11" id="9Rul3oDAmt" likelyIncl="" mutExcl="6HkTVv" name="SRlKbCqGihtkPBwN20LjmUomLyyVfc" periods="1" priority="2" semesters="2"/>
+		<course grades="11-12" id="OgekKdIYWv" likelyIncl="" mutExcl="" name="AiHOgDWOXkdkhc19C42P7HwCdcjU83" periods="2" priority="1" semesters="1"/>
+		<course grades="10" id="09gDcV4QPa" likelyIncl="" mutExcl="" name="ganCchfYdRAoeBlfZ3y6Wjxm7023Xd" periods="1" priority="1" semesters="1"/>
+		<course grades="12" id="hfyqHoICXO" likelyIncl="" mutExcl="" name="u1SrEHSawCSWcCEK5UhHkJfNzXSqit" periods="1" priority="1" semesters="2"/>
+		<course grades="11" id="6b2aldlHth" likelyIncl="" mutExcl="sJFCMV" name="nZSJWFtaXOiDoLk1XdR8FXYfpSFBOz" periods="1" priority="1" semesters="1"/>
+		<course grades="12" id="W2NsnQ9Now" likelyIncl="" mutExcl="" name="wpj5gwLO7iK5IlXJMnADHaNle52MF2" periods="2" priority="1" semesters="1"/>
+		<course grades="9" id="MbF8tErcr2" likelyIncl="" mutExcl="JcAaKN" name="gR0y0f2WQscG001Kh63UnxazrkpBeo" periods="1" priority="3" semesters="1"/>
+		<course grades="9-12" id="fGKRTVkrXo" likelyIncl="" mutExcl="" name="rmNXWOoS0hbJReV0jOuOIgq9xtPloj" periods="1" priority="3" semesters="2"/>
+		<course grades="10-11" id="LaGYciMMSf" likelyIncl="" mutExcl="" name="exwVbTr1XTMQNuEdIPSiCTOHh3ruqY" periods="2" priority="2" semesters="1"/>
+		<course grades="9-11" id="HB2U3Ch0gT" likelyIncl="8utjyE" mutExcl="" name="pHAYxEdirkwPT4rlLnIkraIZf9PX4y" periods="1" priority="2" semesters="2"/>
+		<course grades="9" id="VGxSztUcJi" likelyIncl="" mutExcl="" name="ywI2oCPDJiZNHjQAdfGijFsplixjx3" periods="1" priority="1" semesters="2"/>
+		<course grades="11" id="U4PNsBeAhX" likelyIncl="" mutExcl="" name="taoCpBh0hhtnm6dbzR5rXTtyyfj4Js" periods="1" priority="1" semesters="1"/>
+		<course grades="12" id="b4C5fNLAVT" likelyIncl="" mutExcl="" name="2stRoy3WUtHMiAcxiwrCGZN03yB0Xq" periods="1" priority="2" semesters="2"/>
+		<course grades="10-11" id="SWolrN2WBB" likelyIncl="" mutExcl="" name="LTqNndhhGvVfJTCNEMVpv3Eyq3NitR" periods="1" priority="3" semesters="2"/>
+		<course grades="9" id="I5mDufj3No" likelyIncl="" mutExcl="6HkTVv" name="0sDPblaKE56U8johe1y6ADbrV1Ka0a" periods="1" priority="1" semesters="1"/>
+		<course grades="9" id="USLM6Z2geO" likelyIncl="Ef98FS" mutExcl="mIkUtd" name="uuElHcVjMkNcLg9PtaZ8rlQlXj8A7t" periods="2" priority="1" semesters="1"/>
+		<course grades="11-12" id="OHK8drWLKv" likelyIncl="" mutExcl="" name="pVzA4EznsjHvdlqBtgVCy5UySWTOzw" periods="2" priority="2" semesters="1"/>
+		<course grades="12" id="xPEfp7qVXi" likelyIncl="" mutExcl="" name="4cfHCmzsLhKpHISY3h5RBqwOtSkdzZ" periods="2" priority="3" semesters="1"/>
+		<course grades="11" id="0dfahCk9aN" likelyIncl="" mutExcl="LrudTC" name="D52VTr5kc0VkGNI9XsmxJUy8owCkcY" periods="1" priority="2" semesters="2"/>
+		<course grades="12" id="kLV9knFfT1" likelyIncl="" mutExcl="" name="TQUf1sR2jXXuENoEzSBPDHFNIOag1a" periods="1" priority="3" semesters="2"/>
+		<course grades="9-12" id="Fgjo6nwhg6" likelyIncl="Y8mv9h" mutExcl="sJFCMV" name="mRdTDvXnFxNfEYwMqH9AknIJn8ihnW" periods="1" priority="1" semesters="1"/>
+		<course grades="9" id="BPsAziRSR6" likelyIncl="" mutExcl="" name="ThqSCzQQfKwtf2uuiSsxv77CPB0Fnc" periods="2" priority="1" semesters="1"/>
+		<course grades="10-12" id="znFRLMdtHa" likelyIncl="" mutExcl="" name="CfGvdtknR5rk7SEtAdTA6ptxwPYNVu" periods="2" priority="1" semesters="1"/>
+		<course grades="10-11" id="nabk8a2dvV" likelyIncl="" mutExcl="" name="6v45FDGd8OqstLKUkB3zt3zudcoYEa" periods="1" priority="2" semesters="1"/>
+		<course grades="9-10" id="kWNVqLqSNT" likelyIncl="" mutExcl="" name="1Of8SEAJhr3q49KOkSuCOVAvw4KOwX" periods="1" priority="1" semesters="2"/>
+		<course grades="11" id="AICfHanR8W" likelyIncl="" mutExcl="qXljtI" name="g7QMwzwj1oIoMMISsB0Yjbz9tIP8QK" periods="2" priority="1" semesters="1"/>
+		<course grades="10-12" id="WNtbcm3JRG" likelyIncl="" mutExcl="" name="qHH2uLMvJAB6INJevk62KAJuUYoNpT" periods="1" priority="2" semesters="2"/>
+		<course grades="10-12" id="DAETmk0R8Y" likelyIncl="" mutExcl="VznBlH" name="BbvdLRLk5ut1WV13eQ8fzgR1Ehn5sk" periods="1" priority="1" semesters="1"/>
+		<course grades="9-11" id="xR5d6J4HoE" likelyIncl="" mutExcl="" name="rcXx6bPOyrG6hbo6BirWdn28K4EfLp" periods="1" priority="3" semesters="2"/>
+		<course grades="9-12" id="Z6OnXnKwFD" likelyIncl="" mutExcl="mIkUtd" name="I02DSCuByEOKYZ99P7jGnb7Bcekv1p" periods="1" priority="3" semesters="2"/>
+		<course grades="10" id="oWo9iN5I1c" likelyIncl="LsALf6" mutExcl="6HkTVv" name="jE6Xxo7p3goW8B3P24dD5NY94YriYC" periods="2" priority="3" semesters="1"/>
+		<course grades="10" id="tuzqn1njdZ" likelyIncl="" mutExcl="JcAaKN" name="tzSsCvnoOmjzTEPtN3LSGUAQ78fj1z" periods="1" priority="3" semesters="2"/>
+		<course grades="11" id="txVWRtt5qv" likelyIncl="" mutExcl="" name="B8giM4JpTg3Tfv3kPgnoTzsKytNkNR" periods="2" priority="1" semesters="1"/>
+		<course grades="9" id="wGkC05E5DD" likelyIncl="" mutExcl="" name="w4o1R6hpXRjbSdlDz15y1OL22NAqO0" periods="1" priority="3" semesters="2"/>
+		<course grades="10" id="dgJbhfSxHa" likelyIncl="" mutExcl="" name="54xIQsGxqTaAvxeeU6WxCBrucLPnyR" periods="2" priority="2" semesters="1"/>
+		<course grades="9-10" id="Nw2CBHWG11" likelyIncl="" mutExcl="" name="sRugmekFWn7UiP7EyblpJHzmwA1JEf" periods="1" priority="1" semesters="2"/>
+		<course grades="12" id="9URPwlwKWR" likelyIncl="Fmes9f" mutExcl="LrudTC" name="mfuopAZ2o6UCVIEqlQPS5DkqIgkjz8" periods="1" priority="2" semesters="1"/>
+		<course grades="11" id="YosmcAqdEp" likelyIncl="" mutExcl="" name="YHgAxZI5exhIZP10aRLLYapmo7VhOe" periods="2" priority="1" semesters="1"/>
+		<course grades="11" id="1hpDGnWoMa" likelyIncl="4Hn51D" mutExcl="" name="2tX38RsU0X2G9RJ3qmB9N8Jw8A4IDv" periods="1" priority="3" semesters="2"/>
+		<course grades="10-12" id="vdeBp9zApu" likelyIncl="" mutExcl="" name="LnNCi0X5rzaZhlKnsqdAMHQHzz9rYO" periods="2" priority="2" semesters="1"/>
+		<course grades="12" id="4tDC6mAflG" likelyIncl="" mutExcl="LrudTC" name="TZHXC5nbcBVN06SSbYkuuCdYXEH1Bt" periods="2" priority="2" semesters="1"/>
+		<course grades="11" id="AgPJVjQjvA" likelyIncl="" mutExcl="" name="TZyczs1ilyWeisjNC1niNgnxSmewMm" periods="1" priority="3" semesters="2"/>
+		<course grades="9" id="2YVrLsSvFL" likelyIncl="" mutExcl="" name="1qJKquZNecfNqGBJ0GCwDJiiZJpz4g" periods="1" priority="2" semesters="1"/>
+		<course grades="10-12" id="s7HzYYsGUL" likelyIncl="h6H6wj" mutExcl="" name="Lnv5nHDoz27BYBKXGLsM3s6CAnBK4l" periods="2" priority="1" semesters="1"/>
+		<course grades="10-12" id="mbqheR3i2A" likelyIncl="" mutExcl="" name="r0ezlH3wL3uFttF2jwrFdCdlMGl1ad" periods="1" priority="1" semesters="2"/>
+		<course grades="11" id="pe5AuIItJf" likelyIncl="" mutExcl="" name="tLAZTHZLT0dJhbibDV74EOJDG1yTm0" periods="2" priority="3" semesters="1"/>
+		<course grades="10-12" id="CKwJjpVDDz" likelyIncl="" mutExcl="LrudTC" name="PdgOpie5rnZWVV3uTKg9v15WKQdFQA" periods="1" priority="3" semesters="2"/>
+		<course grades="10" id="5Kake7wV9m" likelyIncl="" mutExcl="" name="uKNNfsKyNbw5AKYkEul26SOx7Al9L3" periods="1" priority="3" semesters="1"/>
+		<course grades="" id="P" likelyIncl="" mutExcl="" name="Planning Period" periods="1" priority="0" semesters="1"/>
+	</courses>
+	<teachers>
+		<teacher earlyBird="false" name="ms.NrrZGDg6eY" s1blocks="" s1skinnies="09gDcV4QPa,DAETmk0R8Y,nabk8a2dvV,2YVrLsSvFL,09gDcV4QPa,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="I5mDufj3No,MbF8tErcr2,I5mDufj3No,4oGd1MFuru,6b2aldlHth," yrcourses="1hpDGnWoMa,"/>
+		<teacher earlyBird="false" name="ms.kqe6NaWVE1" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="BPsAziRSR6," sskinnies="5Kake7wV9m,5Kake7wV9m," yrcourses="Nw2CBHWG11,Z6OnXnKwFD,HB2U3Ch0gT,QeRzMg9BKT,"/>
+		<teacher earlyBird="false" name="mr.CNyfn3GyoK" s1blocks="" s1skinnies="5Kake7wV9m,MbF8tErcr2,6b2aldlHth,Fgjo6nwhg6,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="Fgjo6nwhg6,9URPwlwKWR,MbF8tErcr2,nabk8a2dvV,2YVrLsSvFL,nabk8a2dvV," yrcourses="WNtbcm3JRG,"/>
+		<teacher earlyBird="false" name="ms.MAraYUL5BF" s1blocks="" s1skinnies="09gDcV4QPa,P" s2blocks="s7HzYYsGUL," s2skinnies="P" sblocks="" sskinnies="DAETmk0R8Y,MbF8tErcr2,Fgjo6nwhg6," yrcourses="WNtbcm3JRG,hfyqHoICXO,0dfahCk9aN,"/>
+		<teacher earlyBird="false" name="ms.CmHlFsmPUv" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="W2NsnQ9Now," sskinnies="U4PNsBeAhX,Fgjo6nwhg6,2YVrLsSvFL,DAETmk0R8Y," yrcourses="mbqheR3i2A,CKwJjpVDDz,xR5d6J4HoE,"/>
+		<teacher earlyBird="false" name="mr.9lRtrD8nOf" s1blocks="" s1skinnies="nabk8a2dvV,9URPwlwKWR,P" s2blocks="" s2skinnies="P" sblocks="pe5AuIItJf,OHK8drWLKv,YosmcAqdEp," sskinnies="nabk8a2dvV,Fgjo6nwhg6,9URPwlwKWR,6b2aldlHth," yrcourses=""/>
+		<teacher earlyBird="false" name="mr.zOvkzlEHaG" s1blocks="" s1skinnies="6b2aldlHth,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="4oGd1MFuru,9URPwlwKWR,Fgjo6nwhg6,MbF8tErcr2,Fgjo6nwhg6,9URPwlwKWR,MbF8tErcr2," yrcourses="AgPJVjQjvA,VGxSztUcJi,"/>
+		<teacher earlyBird="false" name="mr.joAuoBMpxi" s1blocks="" s1skinnies="Fgjo6nwhg6,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="MbF8tErcr2,09gDcV4QPa,09gDcV4QPa,MbF8tErcr2,6b2aldlHth," yrcourses="WNtbcm3JRG,WNtbcm3JRG,xR5d6J4HoE,"/>
+		<teacher earlyBird="false" name="mr.hGiqdJ7rYA" s1blocks="USLM6Z2geO,dgJbhfSxHa," s1skinnies="MbF8tErcr2,I5mDufj3No,P" s2blocks="LaGYciMMSf," s2skinnies="6b2aldlHth,P" sblocks="" sskinnies="DAETmk0R8Y,nabk8a2dvV,9URPwlwKWR," yrcourses=""/>
+		<teacher earlyBird="true" name="ms.wPSJPymuph" s1blocks="" s1skinnies="09gDcV4QPa,P" s2blocks="" s2skinnies="P" sblocks="OHK8drWLKv,vdeBp9zApu," sskinnies="09gDcV4QPa,nabk8a2dvV,09gDcV4QPa," yrcourses="HB2U3Ch0gT,VGxSztUcJi,CKwJjpVDDz,"/>
+		<teacher earlyBird="false" name="mr.ZxLujkcpvx" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="" yrcourses="HB2U3Ch0gT,VGxSztUcJi,wGkC05E5DD,AgPJVjQjvA,WNtbcm3JRG,WNtbcm3JRG,"/>
+		<teacher earlyBird="false" name="ms.4J7dXcn4V6" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="AICfHanR8W,LaGYciMMSf," sskinnies="nabk8a2dvV,6b2aldlHth,4oGd1MFuru,2YVrLsSvFL," yrcourses="WNtbcm3JRG,b4C5fNLAVT,"/>
+		<teacher earlyBird="false" name="ms.CCoNBDN8uF" s1blocks="" s1skinnies="nabk8a2dvV,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="MbF8tErcr2," yrcourses="xR5d6J4HoE,Z6OnXnKwFD,VGxSztUcJi,HB2U3Ch0gT,b4C5fNLAVT,"/>
+		<teacher earlyBird="false" name="ms.KxDgKblWB3" s1blocks="" s1skinnies="2YVrLsSvFL,9URPwlwKWR,P" s2blocks="LaGYciMMSf," s2skinnies="P" sblocks="pe5AuIItJf," sskinnies="MbF8tErcr2,MbF8tErcr2,MbF8tErcr2,09gDcV4QPa," yrcourses="hfyqHoICXO,"/>
+		<teacher earlyBird="false" name="mr.dPsuGscEqV" s1blocks="4tDC6mAflG," s1skinnies="nabk8a2dvV,P" s2blocks="" s2skinnies="P" sblocks="txVWRtt5qv," sskinnies="U4PNsBeAhX,nabk8a2dvV,nabk8a2dvV," yrcourses="VGxSztUcJi,AgPJVjQjvA,"/>
+		<teacher earlyBird="false" name="mr.ntzIeoThlT" s1blocks="dgJbhfSxHa," s1skinnies="I5mDufj3No,U4PNsBeAhX,P" s2blocks="" s2skinnies="9URPwlwKWR,P" sblocks="W2NsnQ9Now," sskinnies="MbF8tErcr2," yrcourses="AgPJVjQjvA,b4C5fNLAVT,"/>
+		<teacher earlyBird="false" name="mr.S0qYGLrnKT" s1blocks="" s1skinnies="U4PNsBeAhX,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="9URPwlwKWR,Fgjo6nwhg6,2YVrLsSvFL,5Kake7wV9m,09gDcV4QPa,U4PNsBeAhX,MbF8tErcr2," yrcourses="WNtbcm3JRG,QeRzMg9BKT,"/>
+		<teacher earlyBird="false" name="mr.cPIWNwrF5m" s1blocks="" s1skinnies="09gDcV4QPa,5Kake7wV9m,I5mDufj3No,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="6b2aldlHth,DAETmk0R8Y,09gDcV4QPa," yrcourses="wGkC05E5DD,1hpDGnWoMa,WNtbcm3JRG,"/>
+		<teacher earlyBird="false" name="mr.Tyl3WLtlGZ" s1blocks="" s1skinnies="6b2aldlHth,6b2aldlHth,P" s2blocks="" s2skinnies="P" sblocks="pe5AuIItJf,LaGYciMMSf," sskinnies="9URPwlwKWR,I5mDufj3No," yrcourses="WNtbcm3JRG,fGKRTVkrXo,"/>
+		<teacher earlyBird="false" name="ms.jRmEwZeuzH" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="txVWRtt5qv," sskinnies="MbF8tErcr2,U4PNsBeAhX," yrcourses="AgPJVjQjvA,kWNVqLqSNT,Nw2CBHWG11,tuzqn1njdZ,"/>
+		<teacher earlyBird="false" name="mr.PU3MLSKYhh" s1blocks="" s1skinnies="I5mDufj3No,2YVrLsSvFL,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="2YVrLsSvFL,9URPwlwKWR,9URPwlwKWR,4oGd1MFuru,Fgjo6nwhg6,nabk8a2dvV,I5mDufj3No,U4PNsBeAhX,4oGd1MFuru,I5mDufj3No," yrcourses=""/>
+		<teacher earlyBird="false" name="mr.aqdEdQ0sPq" s1blocks="" s1skinnies="DAETmk0R8Y,P" s2blocks="oWo9iN5I1c," s2skinnies="P" sblocks="" sskinnies="6b2aldlHth," yrcourses="tuzqn1njdZ,tuzqn1njdZ,HB2U3Ch0gT,kLV9knFfT1,"/>
+		<teacher earlyBird="false" name="mr.WnkBdwD81H" s1blocks="" s1skinnies="09gDcV4QPa,P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="6b2aldlHth,U4PNsBeAhX,5Kake7wV9m,nabk8a2dvV,I5mDufj3No," yrcourses="VGxSztUcJi,AgPJVjQjvA,QeRzMg9BKT,"/>
+		<teacher earlyBird="false" name="ms.Lw6LdtzNHw" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="" sskinnies="I5mDufj3No,U4PNsBeAhX," yrcourses="fGKRTVkrXo,Nw2CBHWG11,fGKRTVkrXo,tuzqn1njdZ,b4C5fNLAVT,"/>
+		<teacher earlyBird="true" name="ms.bxTa2B5uxk" s1blocks="" s1skinnies="P" s2blocks="" s2skinnies="P" sblocks="YosmcAqdEp,YosmcAqdEp," sskinnies="9URPwlwKWR,2YVrLsSvFL,U4PNsBeAhX,09gDcV4QPa," yrcourses="WNtbcm3JRG,SWolrN2WBB,9Rul3oDAmt,"/>
+	</teachers>
+</timetableProblem>
